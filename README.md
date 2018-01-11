@@ -1,6 +1,6 @@
 # Sparta ruby loops lab
 
-In this folder I used the different loops available in Ruby, and use RSpec to test whether I receive the correct value back.
+In this folder I used the different loops available in Ruby, and used RSpec to test whether I receive the correct value back.
 
 ### Running the tests
 
