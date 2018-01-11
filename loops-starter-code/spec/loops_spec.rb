@@ -1,3 +1,4 @@
+require 'spec_helper'
 require_relative "../loops.rb"
 
 describe "reverse_array_of_strings" do
@@ -29,4 +30,3 @@ describe "average" do
     expect(average([1,2,4,5])).to eq(3.0)
   end
 end
-

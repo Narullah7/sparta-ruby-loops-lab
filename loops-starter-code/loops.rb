@@ -5,7 +5,7 @@ def reverse_array_of_strings words
   reversed_words = array.map do |word|
     word.reverse
   end
-  p reversed_words
+  reversed_words
 end
 
 # return all the even numbers less than the given number
